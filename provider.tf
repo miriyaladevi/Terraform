@@ -3,8 +3,8 @@
 
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIAZ2NGWKDGOS753ZXN"
-  secret_key = "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"
+  access_key = "AKIAZ2NGWKDGAT5ZNXLI"
+  secret_key = "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"
 }
 
 # Resource definition
